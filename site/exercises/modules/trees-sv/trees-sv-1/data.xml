@@ -24,25 +24,25 @@ Följande attribut kan användas för <item>-elementet:
 <data title="Trädslag 1" info="Kombinera ord och bild" readyMessage="Bra! Klicka på Gå vidare-knappen för att fortsätta till nästa exempel." readyGoTo="../../trees-sv/trees-sv-1b/index.html"  menuGoTo="../../../index.htm">
    
 <!--    <item picture="../trees-sv/pictures/asp.jpg" correctTag="asp" verifySpelling="false" /> -->
-<!--    <item picture="../trees-sv/pictures/asp-löv.jpg" correctTag="asp" verifySpelling="false" /> -->
-   <item picture="../trees-sv/pictures/björk.jpg" correctTag="björk" verifySpelling="false" />
+<!--    <item picture="../trees-sv/pictures/asp-lov.jpg" correctTag="asp" verifySpelling="false" /> -->
+   <item picture="../trees-sv/pictures/bjork.jpg" correctTag="björk" verifySpelling="false" />
 
-<!--    <item picture="../trees-sv/pictures/björk-löv.jpg" correctTag="björk" verifySpelling="false" /> -->
-<!--    <item picture="../trees-sv/pictures/björk-bark.jpg" correctTag="björk" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/bjork-lov.jpg" correctTag="björk" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/bjork-bark.jpg" correctTag="björk" verifySpelling="false" /> -->
    
-<!--    <item picture="../trees-sv/pictures/björk2.jpg" correctTag="björk" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/bjork2.jpg" correctTag="björk" verifySpelling="false" /> -->
 <!--    <item picture="../trees-sv/pictures/ek.jpg" correctTag="ek" verifySpelling="false" /> -->
-<!--    <item picture="../trees-sv/pictures/ek-löv.jpg" correctTag="ek" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/ek-lov.jpg" correctTag="ek" verifySpelling="false" /> -->
 
 <!--    <item picture="../trees-sv/pictures/gran-barr.jpg" correctTag="gran" verifySpelling="false" /> -->
 <!--    <item picture="../trees-sv/pictures/gran-kotte.jpg" correctTag="gran" verifySpelling="false" /> -->
   
    <item picture="../trees-sv/pictures/gran.jpg" correctTag="gran" verifySpelling="false" />
 
-<!--    <item picture="../trees-sv/pictures/lönn-löv.jpg" correctTag="lönn" verifySpelling="false" /> -->
-<!--    <item picture="../trees-sv/pictures/lönn.jpg" correctTag="lönn" verifySpelling="false" /> -->
-<!--    <item picture="../trees-sv/pictures/rönn-löv.jpg" correctTag="rönn" verifySpelling="false" /> -->
-<!--    <item picture="../trees-sv/pictures/rönn.jpg" correctTag="rönn" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/lonn-lov.jpg" correctTag="lönn" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/lonn.jpg" correctTag="lönn" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/ronn-lov.jpg" correctTag="rönn" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/ronn.jpg" correctTag="rönn" verifySpelling="false" /> -->
    
    <item picture="../trees-sv/pictures/tall-bark.jpg" correctTag="tall" verifySpelling="false" />
    

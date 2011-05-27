@@ -1,6 +1,6 @@
 <data title="Swedish trees 2" info="Write the names of the tree species in the text box below each picture. In English, please!" readyMessage="Contratulations! Please continue with to the next exercise by clickin the Gå vidare button." readyGoTo="../../trees-eng/trees-eng-2/index.html" menuGoTo="../../../index.htm" >
 
-	<item picture="../trees-eng/pictures/björk.jpg" correctTag="birch"  />
+	<item picture="../trees-eng/pictures/bjork.jpg" correctTag="birch"  />
 
 	<item picture="../trees-eng/pictures/tall.jpg" correctTag="pine"  />
 

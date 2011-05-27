@@ -23,20 +23,20 @@ Följande attribut kan användas för <item>-elementet:
 
 <data title="Swedish trees 1" info="Combine pictures and words" readyMessage="Well done! Continue to the next exercise by clicking the Gå vidare button." readyGoTo="../../trees-eng/trees-eng-2sp/index.html"  menuGoTo="../../../index.htm" >   
    <item picture="../trees-eng/pictures/asp.jpg" correctTag="aspen" verifySpelling="true" />
-<!--    <item picture="../trees-eng/pictures/asp-löv.jpg" correctTag="asp" verifySpelling="true" /> -->
-   <item picture="../trees-eng/pictures/björk2.jpg" correctTag="birch" verifySpelling="false" />
-<!--    <item picture="../trees-eng/pictures/björk-löv.jpg" correctTag="björk" verifySpelling="true" /> -->
-<!--    <item picture="../trees-eng/pictures/björk-bark.jpg" correctTag="björk" verifySpelling="true" /> -->
-<!--    <item picture="../trees-eng/pictures/björk.jpg" correctTag="björk" verifySpelling="true" /> -->
+<!--    <item picture="../trees-eng/pictures/asp-lov.jpg" correctTag="asp" verifySpelling="true" /> -->
+   <item picture="../trees-eng/pictures/bjork2.jpg" correctTag="birch" verifySpelling="false" />
+<!--    <item picture="../trees-eng/pictures/bjork-lov.jpg" correctTag="björk" verifySpelling="true" /> -->
+<!--    <item picture="../trees-eng/pictures/bjork-bark.jpg" correctTag="björk" verifySpelling="true" /> -->
+<!--    <item picture="../trees-eng/pictures/bjork.jpg" correctTag="björk" verifySpelling="true" /> -->
    <item picture="../trees-eng/pictures/ek.jpg" correctTag="oak" verifySpelling="true" />
-<!--    <item picture="../trees-eng/pictures/ek-löv.jpg" correctTag="ek" verifySpelling="true" /> -->
+<!--    <item picture="../trees-eng/pictures/ek-lov.jpg" correctTag="ek" verifySpelling="true" /> -->
 <!--    <item picture="../trees-eng/pictures/gran-barr.jpg" correctTag="gran" verifySpelling="true" /> -->
 <!--    <item picture="../trees-eng/pictures/gran-kotte.jpg" correctTag="gran" verifySpelling="true" /> -->
    <item picture="../trees-eng/pictures/gran.jpg" correctTag="spruce" verifySpelling="false" />
-<!--    <item picture="../trees-eng/pictures/lönn-löv.jpg" correctTag="lönn" verifySpelling="true" /> -->
-   <item picture="../trees-eng/pictures/lönn.jpg" correctTag="maple" verifySpelling="true" />
-<!--    <item picture="../trees-eng/pictures/rönn-löv.jpg" correctTag="rönn" verifySpelling="true" /> -->
-   <item picture="../trees-eng/pictures/rönn.jpg" correctTag="rowan" verifySpelling="true" />
+<!--    <item picture="../trees-eng/pictures/lonn-lov.jpg" correctTag="lönn" verifySpelling="true" /> -->
+   <item picture="../trees-eng/pictures/lonn.jpg" correctTag="maple" verifySpelling="true" />
+<!--    <item picture="../trees-eng/pictures/ronn-lov.jpg" correctTag="rönn" verifySpelling="true" /> -->
+   <item picture="../trees-eng/pictures/ronn.jpg" correctTag="rowan" verifySpelling="true" />
    <item picture="../trees-eng/pictures/tall-bark.jpg" correctTag="pine" verifySpelling="false" />
 <!--    <item picture="../trees-eng/pictures/tall-barr.jpg" correctTag="tall" verifySpelling="true" /> -->
 <!--    <item picture="../trees-eng/pictures/tall-kotte.jpg" correctTag="tall" verifySpelling="true" /> -->
