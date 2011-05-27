@@ -33,12 +33,12 @@ Följande attribut kan användas för <item>-elementet:
 <!--    <item picture="../trees-eng/pictures/ek-lov.jpg" correctTag="ek" verifySpelling="false" /> -->
 <!--    <item picture="../trees-eng/pictures/gran-barr.jpg" correctTag="gran" verifySpelling="false" /> -->
 <!--    <item picture="../trees-eng/pictures/gran-kotte.jpg" correctTag="gran" verifySpelling="false" /> -->
-   <item picture="../trees-eng/pictures/gran.jpg" correctTag="spruce" verifySpelling="true" />
+   <item picture="../trees-eng/pictures/gran3.jpg" correctTag="spruce" verifySpelling="true" />
 <!--    <item picture="../trees-eng/pictures/lonn-lov.jpg" correctTag="lönn" verifySpelling="false" /> -->
 <!--    <item picture="../trees-eng/pictures/lonn.jpg" correctTag="lönn" verifySpelling="false" /> -->
 <!--    <item picture="../trees-eng/pictures/ronn-lov.jpg" correctTag="rönn" verifySpelling="false" /> -->
 <!--    <item picture="../trees-eng/pictures/ronn.jpg" correctTag="rönn" verifySpelling="false" /> -->
-   <item picture="../trees-eng/pictures/tall-bark.jpg" correctTag="pine" verifySpelling="true" />
+   <item picture="../trees-eng/pictures/tall2.jpg" correctTag="pine" verifySpelling="true" />
 <!--    <item picture="../trees-eng/pictures/tall-barr.jpg" correctTag="tall" verifySpelling="false" /> -->
 <!--    <item picture="../trees-eng/pictures/tall-kotte.jpg" correctTag="tall" verifySpelling="false" /> -->
 
