@@ -1,0 +1,53 @@
+﻿<!-- -----------------------------------------------------------------------------------
+
+Exempel på data.xml för "Ordmodulen" - ModuleObjects1.swf.
+
+Xml-filen är uppbyggd med två olika sorters element:
+
+<data>-elementet som fungerar som yttre "ram" för uppgiften
+<item>-elementen som motsvarar ett ord/begrepp/bild
+
+Följande attribut kan användas för <data>-elementet:
+
+   title : Exemplets titel/rubrik
+   info : Kan användas för textinformation om hur övningen går till eller liknande. 
+   readyMessage : Meddelande som visas när övningen är genomförd
+
+Följande attribut kan användas för <item>-elementet:
+
+   picture : url till den bild som ska användas för det aktuella bildkortet
+   correctTag : det ord som utgör det "riktiga svaret" på uppgiften
+   target : om detta attribut sätts target="false" så visas inget bildkort, endast ett dragbart alternativ 
+
+------------------------------------------------------------------------------------------>
+
+<data title="Trädslag 1b" info="Kombinera ord och bild" readyMessage="Bra! Klicka på Gå vidare-knappen för att fortsätta till nästa exempel." readyGoTo="../../trees-sv/trees-sv-2/index.html"  menuGoTo="../../../index.htm">
+   
+<!--    <item picture="../trees-sv/pictures/asp.jpg" correctTag="asp" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/asp-löv.jpg" correctTag="asp" verifySpelling="false" /> -->
+
+<!--    <item picture="../trees-sv/pictures/björk.jpg" correctTag="björk" verifySpelling="false" /> -->
+   <item picture="../trees-sv/pictures/björk-löv.jpg" correctTag="björk" verifySpelling="false" />
+   <item picture="../trees-sv/pictures/björk-bark.jpg" correctTag="björk" verifySpelling="false" />
+   <item picture="../trees-sv/pictures/björk2.jpg" correctTag="björk" verifySpelling="false" />
+
+<!--    <item picture="../trees-sv/pictures/ek.jpg" correctTag="ek" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/ek-löv.jpg" correctTag="ek" verifySpelling="false" /> -->
+
+   <item picture="../trees-sv/pictures/gran-barr.jpg" correctTag="gran" verifySpelling="false" />
+   <item picture="../trees-sv/pictures/gran-kotte.jpg" correctTag="gran" verifySpelling="false" />
+<!--    <item picture="../trees-sv/pictures/gran.jpg" correctTag="gran" verifySpelling="false" /> -->
+
+<!--    <item picture="../trees-sv/pictures/lönn-löv.jpg" correctTag="lönn" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/lönn.jpg" correctTag="lönn" verifySpelling="false" /> -->
+
+<!--    <item picture="../trees-sv/pictures/rönn-löv.jpg" correctTag="rönn" verifySpelling="false" /> -->
+<!--    <item picture="../trees-sv/pictures/rönn.jpg" correctTag="rönn" verifySpelling="false" /> -->
+
+<!--    <item picture="../trees-sv/pictures/tall-bark.jpg" correctTag="tall" verifySpelling="false" /> -->
+   <item picture="../trees-sv/pictures/tall-barr.jpg" correctTag="tall" verifySpelling="false" />
+   <item picture="../trees-sv/pictures/tall-kotte.jpg" correctTag="tall" verifySpelling="false" />
+
+   
+
+</data>

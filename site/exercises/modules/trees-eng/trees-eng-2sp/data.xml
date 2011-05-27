@@ -1,0 +1,15 @@
+<data title="Swedish trees 2b" info="Write the names of the tree species in the text box below each picture. In English, please!" readyMessage="Contratulations! Please continue with to the next exercise by clickin the Gå vidare button." readyGoTo="../../../index.htm" menuGoTo="../../../index.htm" >
+
+	<item picture="../trees-eng/pictures/björk2.jpg" correctTag="birch"  />
+
+	<item picture="../trees-eng/pictures/tall.jpg" correctTag="pine"  />
+
+	<item picture="../trees-eng/pictures/gran.jpg" correctTag="spruce"  />
+	
+    <item picture="../trees-eng/pictures/asp.jpg" correctTag="aspen"  />	
+	
+	<item picture="../trees-eng/pictures/ek.jpg" correctTag="oak" />	
+	
+	<item picture="../trees-eng/pictures/rönn.jpg" correctTag="rowan"  />	
+	
+</data>
