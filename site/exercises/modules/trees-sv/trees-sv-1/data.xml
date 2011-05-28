@@ -21,7 +21,7 @@ Följande attribut kan användas för <item>-elementet:
 
 ------------------------------------------------------------------------------------------>
 
-<data title="Trädslag 1" info="Kombinera ord och bild" readyMessage="Bra! Klicka på Gå vidare-knappen för att fortsätta till nästa exempel." readyGoTo="../../trees-sv/trees-sv-1b/index.html"  menuGoTo="../../../index.htm">
+<data title="Trädslag 1" info="Kombinera ord och bild. Dra orden till rätt bildkort. Lycka till!" readyMessage="Bra! Klicka på Gå vidare-knappen för att fortsätta till nästa exempel." readyGoTo="../../trees-sv/trees-sv-1b/index.html"  menuGoTo="../../../index.htm">
    
 <!--    <item picture="../trees-sv/pictures/asp.jpg" correctTag="asp" verifySpelling="false" /> -->
 <!--    <item picture="../trees-sv/pictures/asp-lov.jpg" correctTag="asp" verifySpelling="false" /> -->
