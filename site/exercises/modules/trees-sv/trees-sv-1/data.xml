@@ -37,14 +37,14 @@ Följande attribut kan användas för <item>-elementet:
 <!--    <item picture="../trees-sv/pictures/gran-barr.jpg" correctTag="gran" verifySpelling="false" /> -->
 <!--    <item picture="../trees-sv/pictures/gran-kotte.jpg" correctTag="gran" verifySpelling="false" /> -->
   
-   <item picture="../trees-sv/pictures/gran3.jpg" correctTag="gran" verifySpelling="false" />
+   <item picture="../trees-sv/pictures/gran.jpg" correctTag="gran" verifySpelling="false" />
 
 <!--    <item picture="../trees-sv/pictures/lonn-lov.jpg" correctTag="lönn" verifySpelling="false" /> -->
 <!--    <item picture="../trees-sv/pictures/lonn.jpg" correctTag="lönn" verifySpelling="false" /> -->
 <!--    <item picture="../trees-sv/pictures/ronn-lov.jpg" correctTag="rönn" verifySpelling="false" /> -->
 <!--    <item picture="../trees-sv/pictures/ronn.jpg" correctTag="rönn" verifySpelling="false" /> -->
    
-   <item picture="../trees-sv/pictures/tall2.jpg" correctTag="tall" verifySpelling="false" />
+   <item picture="../trees-sv/pictures/tall-bark.jpg" correctTag="tall" verifySpelling="false" />
    
 <!--    <item picture="../trees-sv/pictures/tall-barr.jpg" correctTag="tall" verifySpelling="false" /> -->
 <!--    <item picture="../trees-sv/pictures/tall-kotte.jpg" correctTag="tall" verifySpelling="false" /> -->
