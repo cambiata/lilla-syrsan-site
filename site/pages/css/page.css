@@ -1,0 +1,21 @@
+
+body {
+	background-color: #6c6fef;
+	margin-top: 10px;
+	margin-left: 0px;
+	padding: 0px;
+	font-family: Arial, helvetica, sans-serif;
+	color: white;
+}
+
+a {
+	color:white;
+	
+}
+
+#content {
+	margin: 20px;
+	margin-left: 60px;
+	width: 600px;
+}
+	
