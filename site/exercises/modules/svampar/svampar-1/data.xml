@@ -21,17 +21,17 @@ Följande attribut kan användas för <item>-elementet:
 
 ------------------------------------------------------------------------------------------>
 
-<data title="Svampar 1" info="Kombinera bild och ord. För att göra övningen lite svårare så finns det fler ord än bilder." readyMessage="Bra!" readyGoTo="../../svampar/svampar-2/index.html"  menuGoTo="../../../index.htm" >
+<data title="Svampar 1" info="Kombinera bild och ord. " readyMessage="Bra!" readyGoTo="../../svampar/svampar-2/index.html"  menuGoTo="../../../index.htm" >
    
    <item picture="../svampar/pictures/champinjon.jpg" correctTag="champinjon" verifySpelling="false" />
-   <item picture="../svampar/pictures/farticka.jpg" correctTag="fårticka" verifySpelling="false" target="false" />
+<!--    <item picture="../svampar/pictures/farticka.jpg" correctTag="fårticka" verifySpelling="false" target="false" /> -->
    <item picture="../svampar/pictures/kantarell.jpg" correctTag="kantarell" verifySpelling="false" />
    <item picture="../svampar/pictures/karl-johansvamp.jpg" correctTag="karljohan" verifySpelling="false" />
-   <item picture="../svampar/pictures/murkla.jpg" correctTag="murkla" verifySpelling="false" target="false" />
+<!--    <item picture="../svampar/pictures/murkla.jpg" correctTag="murkla" verifySpelling="false" target="false" /> -->
    <item picture="../svampar/pictures/rod-flugsvamp.jpg" correctTag="röd flugsvamp" verifySpelling="false" />
    <item picture="../svampar/pictures/vit-flugsvamp.jpg" correctTag="vit flugsvamp" verifySpelling="false" />
-   <item picture="../svampar/pictures/roksvamp.jpg" correctTag="röksvamp" verifySpelling="false" target="false" />
-   <item picture="../svampar/pictures/smorsopp.jpg" correctTag="smörsopp" verifySpelling="false" target="false" />
-   <item picture="../svampar/pictures/farticka.jpg" correctTag="fårticka" verifySpelling="false" target="false"/>
+<!--    <item picture="../svampar/pictures/roksvamp.jpg" correctTag="röksvamp" verifySpelling="false" target="false" /> -->
+<!--    <item picture="../svampar/pictures/smorsopp.jpg" correctTag="smörsopp" verifySpelling="false" target="false" /> -->
+<!--    <item picture="../svampar/pictures/farticka.jpg" correctTag="fårticka" verifySpelling="false" target="false"/> -->
 
 </data>

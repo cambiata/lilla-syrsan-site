@@ -32,6 +32,5 @@ Följande attribut kan användas för <item>-elementet:
    <item picture="../svampar/pictures/vit-flugsvamp.jpg" correctTag="vit flugsvamp" verifySpelling="false" />
    <item picture="../svampar/pictures/roksvamp.jpg" correctTag="röksvamp" verifySpelling="false" />
    <item picture="../svampar/pictures/smorsopp.jpg" correctTag="smörsopp" verifySpelling="false" />
-   <item picture="../svampar/pictures/farticka.jpg" correctTag="fårticka" verifySpelling="false" />
 
 </data>

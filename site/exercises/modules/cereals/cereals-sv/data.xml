@@ -1,0 +1,33 @@
+﻿<!-- -----------------------------------------------------------------------------------
+
+Exempel på data.xml för "Ordmodulen" - ModuleObjects1.swf.
+
+Xml-filen är uppbyggd med två olika sorters element:
+
+<data>-elementet som fungerar som yttre "ram" för uppgiften
+<item>-elementen som motsvarar ett ord/begrepp/bild
+
+Följande attribut kan användas för <data>-elementet:
+
+   title : Exemplets titel/rubrik
+   info : Kan användas för textinformation om hur övningen går till eller liknande. 
+   readyMessage : Meddelande som visas när övningen är genomförd
+
+Följande attribut kan användas för <item>-elementet:
+
+   picture : url till den bild som ska användas för det aktuella bildkortet
+   correctTag : det ord som utgör det "riktiga svaret" på uppgiften
+   target : om detta attribut sätts target="false" så visas inget bildkort, endast ett dragbart alternativ 
+
+------------------------------------------------------------------------------------------>
+
+<data title="Sädesslag 1" info="Kombinera ord och bilder." readyMessage="Bra!" readyGoTo="../../cereals/cereals-eng/index.html"  menuGoTo="../../../index.htm" >
+   
+   <item picture="../cereals/pictures/korn2.jpg" correctTag="korn" verifySpelling="false" />
+<!--    <item picture="../cereals/pictures/korn.jpg" correctTag="korn" verifySpelling="false" /> -->
+   <item picture="../cereals/pictures/havre.jpg" correctTag="havre" verifySpelling="false" />
+   <item picture="../cereals/pictures/vete.jpg" correctTag="vete" verifySpelling="false" />
+<!--    <item picture="../cereals/pictures/rag.jpg" correctTag="råg" verifySpelling="false" /> -->
+   <item picture="../cereals/pictures/rag2.jpg" correctTag="råg" verifySpelling="false" />
+
+</data>

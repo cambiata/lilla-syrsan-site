@@ -1,0 +1,10 @@
+﻿<data title="Cereals - spelling" info="Spell the cereals correctly." readyMessage="Good!" readyGoTo="../../../index.htm"  menuGoTo="../../../index.htm" >
+   
+   <item picture="../cereals/pictures/korn2.jpg" correctTag="barley" />
+<!--    <item picture="../cereals/pictures/korn.jpg" correctTag="barley" /> -->
+   <item picture="../cereals/pictures/havre.jpg" correctTag="oat"  />
+   <item picture="../cereals/pictures/vete.jpg" correctTag="wheat" />
+<!--    <item picture="../cereals/pictures/rag.jpg" correctTag="ray"  /> -->
+   <item picture="../cereals/pictures/rag2.jpg" correctTag="ray" />
+
+</data>
