@@ -27,7 +27,7 @@ Följande attribut kan användas för <item>-elementet:
 <!--    <item picture="../cereals/pictures/korn.jpg" correctTag="barley" verifySpelling="true" /> -->
    <item picture="../cereals/pictures/havre.jpg" correctTag="oat" verifySpelling="true" />
    <item picture="../cereals/pictures/vete.jpg" correctTag="wheat" verifySpelling="true" />
-<!--    <item picture="../cereals/pictures/rag.jpg" correctTag="ray" verifySpelling="true" /> -->
-   <item picture="../cereals/pictures/rag2.jpg" correctTag="ray" verifySpelling="true" />
+<!--    <item picture="../cereals/pictures/rag.jpg" correctTag="rye" verifySpelling="true" /> -->
+   <item picture="../cereals/pictures/rag2.jpg" correctTag="rye" verifySpelling="true" />
 
 </data>

@@ -4,7 +4,7 @@
 <!--    <item picture="../cereals/pictures/korn.jpg" correctTag="barley" /> -->
    <item picture="../cereals/pictures/havre.jpg" correctTag="oat"  />
    <item picture="../cereals/pictures/vete.jpg" correctTag="wheat" />
-<!--    <item picture="../cereals/pictures/rag.jpg" correctTag="ray"  /> -->
-   <item picture="../cereals/pictures/rag2.jpg" correctTag="ray" />
+<!--    <item picture="../cereals/pictures/rag.jpg" correctTag="rye"  /> -->
+   <item picture="../cereals/pictures/rag2.jpg" correctTag="rye" />
 
 </data>
