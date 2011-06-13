@@ -33,3 +33,14 @@ img {
 	border: 0px;
 	
 	}
+	
+.dark {
+	padding: 16px;
+	background-color: #515163;
+	margin-bottom: 12px;
+	}
+.dark img {
+	margin-bottom: 12px;
+	margin-left: 12px;
+	}
+	
