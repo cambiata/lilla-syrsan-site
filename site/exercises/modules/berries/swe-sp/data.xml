@@ -1,0 +1,11 @@
+﻿<data title="Berries - spelling" info="Spell the berries correctly." readyMessage="Good!" readyGoTo="../../berries/eng/index.html"  menuGoTo="../../../index.htm" >
+   
+   <item picture="../berries/pictures/bjornbar.png" correctTag="björnbär"   />
+   <item picture="../berries/pictures/blabar.png" correctTag="blåbär"   />
+   <item picture="../berries/pictures/hallon.png" correctTag="hallon"   />
+   <item picture="../berries/pictures/lingon.png" correctTag="lingon"   />
+   <item picture="../berries/pictures/ronnbar.png" correctTag="rönnbär"   />
+   <item picture="../berries/pictures/smultron.png" correctTag="smultron"   />
+   <item picture="../berries/pictures/akerbar.png" correctTag="åkerbär"   />
+
+</data>
