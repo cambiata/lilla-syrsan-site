@@ -11,6 +11,11 @@ body {
 h1 {
 	font-size: 260%;
 	}
+	
+table h1 {
+	font-size: 200%;
+	margin: 0px;
+	}	
 
 table  {
 	background-color: #444444;
