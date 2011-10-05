@@ -1,4 +1,4 @@
-﻿<data title="Berries - spelling" info="Spell the berries correctly." readyMessage="Good!" readyGoTo="../../berries/eng/index.html"  menuGoTo="../../../index.htm" >
+﻿<data title="Bär - stavning" info="Stava bärslagen riktigt." readyMessage="Bra jobbat!" readyGoTo="../../berries/eng/index.html"  menuGoTo="../../../index.htm" >
    
    <item picture="../berries/pictures/bjornbar.png" correctTag="björnbär"   />
    <item picture="../berries/pictures/blabar.png" correctTag="blåbär"   />

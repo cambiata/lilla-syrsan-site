@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="lib" path="site/pages/create/ObjectsExample.zip"/>
+	<buildpathentry kind="lib" path="site/pages/create/SpellingExample.zip"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
